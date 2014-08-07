@@ -2,7 +2,7 @@
 	<content><![CDATA[<dl>
 	<dt>$1</dt>
 	<dd>$2</dd>
-</dl>$0]]></content>
+</dl>]]></content>
 	<tabTrigger>dl</tabTrigger>
 	<scope>source.php,text.html</scope>
 	<description>&lt;dl&gt;</description>

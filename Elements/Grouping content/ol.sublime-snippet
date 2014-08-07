@@ -1,7 +1,8 @@
 <snippet>
 	<content><![CDATA[<ol$1>
-	<li>$2</li>$3
-</ol>$0]]></content>
+	<li>$2</li>
+	$0
+</ol>]]></content>
 	<tabTrigger>ol</tabTrigger>
 	<scope>source.php,text.html</scope>
 	<description>&lt;ol&gt;</description>
